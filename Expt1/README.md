@@ -1,0 +1,1 @@
+An implementation of the paper: (https://ieeexplore.ieee.org/document/8567475)[Convolutional Neural Network Approach to Lung Cancer Classification Integrating Protein Interaction Network and Gene Expression Profiles]
